@@ -1,0 +1,17 @@
+_build/
+cover/
+deps/
+doc/
+.fetch/
+.idea/
+.gradle/
+
+*.ez
+erl_crash.dump
+playlister-*.tar
+
+config/dev.exs
+config/prod.exs
+config/test.exs
+Playlister.iml
+mix.lock
